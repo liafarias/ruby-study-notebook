@@ -1,1 +1,1 @@
-# ruby-study-notebook
+# Ruby Study Notebook
